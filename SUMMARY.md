@@ -4,12 +4,13 @@
 
 ## 0⃣ Hardware
 
-* [Internals](hardware/internals.md)
+* [Internal Chips](hardware/internal-chips.md)
 * [Technologies](hardware/technologies.md)
 
 ## 1⃣ Firmwares
 
 * [List](firmwares/list.md)
+* [Backups](firmwares/backups.md)
 * [Original](firmwares/original.md)
 * [Xtreme](firmwares/xtreme.md)
 * [Unleashed](firmwares/unleashed.md)
@@ -27,6 +28,12 @@
 
 * [Base Info](rfs-data/base-info.md)
 * [My Plugins](rfs-data/my-plugins.md)
+
+## 🐡 Wifi
+
+* [EvilTwin](wifi/eviltwin.md)
+* [PKMID](wifi/pkmid.md)
+* [WPS](wifi/wps.md)
 
 ## Bluetooth
 
@@ -47,12 +54,6 @@
 * [TVs](ir-infrared/tvs.md)
 * [LEDs](ir-infrared/leds.md)
 * [ACs](ir-infrared/acs.md)
-
-## 🐡 Wifi
-
-* [EvilTwin](wifi/eviltwin.md)
-* [PKMID](wifi/pkmid.md)
-* [WPS](wifi/wps.md)
 
 ## Lora
 
