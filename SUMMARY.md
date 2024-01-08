@@ -6,6 +6,8 @@
 
 * [Internal Chips](hardware/internal-chips.md)
 * [Technologies](hardware/technologies.md)
+* [Modulations](hardware/modulations.md)
+* [Frequencies](hardware/frequencies.md)
 
 ## 1⃣ Firmwares
 

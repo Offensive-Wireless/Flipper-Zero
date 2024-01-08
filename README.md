@@ -7,7 +7,9 @@ coverY: 0
 
 # Description
 
-The Flipper Zero is a multifunctional security and hacking tool designed for various tasks related to cybersecurity and electronics.&#x20;
+The Flipper Zero is a multifunctional security and hacking tool designed for various tasks related to cybersecurity and electronics.
+
+<figure><img src=".gitbook/assets/Flipper_image.webp" alt=""><figcaption></figcaption></figure>
 
 It features a built-in radio module, infrared transmitter, NFC module, and more, making it a versatile device for penetration testing, signal analysis, and hardware hacking.&#x20;
 
