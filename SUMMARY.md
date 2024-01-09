@@ -24,7 +24,7 @@
 * [RFID](apps-fap/rfid.md)
 * [NFC](apps-fap/nfc.md)
 * [GPIO](apps-fap/gpio.md)
-* [Page 4](apps-fap/page-4.md)
+* [DuckyScript](apps-fap/duckyscript.md)
 
 ## RFS Data
 
