@@ -69,6 +69,7 @@
 
 * [ESP32](dev-boards/esp32.md)
 * [esp8266](dev-boards/esp8266.md)
+* [ESP32Marauder](dev-boards/esp32marauder.md)
 
 ## Cars
 
