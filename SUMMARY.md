@@ -8,11 +8,11 @@
 * [Technologies](hardware/technologies.md)
 * [Modulations](hardware/modulations.md)
 * [Frequencies](hardware/frequencies.md)
+* [Firmwares List](hardware/firmwares-list.md)
+* [Apps - FAP](hardware/apps-fap.md)
 
 ## 1⃣ Firmwares
 
-* [List](firmwares/list.md)
-* [Backups](firmwares/backups.md)
 * [Original](firmwares/original.md)
 * [Xtreme](firmwares/xtreme.md)
 * [Unleashed](firmwares/unleashed.md)
@@ -45,6 +45,7 @@
 ## Sub Ghz
 
 * [CC1101](sub-ghz/cc1101.md)
+* [NRF24](sub-ghz/nrf24.md)
 
 ## RFID
 
@@ -80,3 +81,7 @@
 ## Cars
 
 * [Rolling Codes](cars/rolling-codes.md)
+
+## Group 1
+
+* [Page 4](group-1/page-4.md)
