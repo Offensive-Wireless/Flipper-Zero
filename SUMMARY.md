@@ -73,6 +73,7 @@
 
 * [ESP32](dev-boards/esp32.md)
 * [ESP32-CAM](dev-boards/esp32-cam.md)
+* [ESP32-WROOM-32E](dev-boards/esp32-wroom-32e.md)
 * [esp8266](dev-boards/esp8266.md)
 * [ESP32Marauder](dev-boards/esp32marauder.md)
 
