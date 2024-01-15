@@ -1,3 +1,5 @@
 # Original
 
-[https://github.com/flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+{% @github-files/github-code-block %}
+
+[https://lab.flipper.net/](https://lab.flipper.net/)
