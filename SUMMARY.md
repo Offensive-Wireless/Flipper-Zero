@@ -72,6 +72,9 @@
 
 * [Rolling Codes](cars/rolling-codes.md)
 
-## Group 1
+## Environment Control
 
-* [Page 4](group-1/page-4.md)
+* [Light](environment-control/light.md)
+* [CO2](environment-control/co2.md)
+* [Temperature](environment-control/temperature.md)
+* [Humidity](environment-control/humidity.md)
