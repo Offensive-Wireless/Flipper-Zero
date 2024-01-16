@@ -10,6 +10,7 @@
 * [Frequencies](hardware/frequencies.md)
 * [Firmwares List](hardware/firmwares-list.md)
 * [Apps - FAP](hardware/apps-fap.md)
+* [DuckyScript](hardware/duckyscript.md)
 
 ## 1⃣ Firmwares
 
@@ -18,13 +19,13 @@
 * [Unleashed](firmwares/unleashed.md)
 * [Rogue Master](firmwares/rogue-master.md)
 
-## 2⃣ Apps - FAP
+## Dev Boards
 
-* [Bluetooth](apps-fap/bluetooth.md)
-* [RFID](apps-fap/rfid.md)
-* [NFC](apps-fap/nfc.md)
-* [GPIO](apps-fap/gpio.md)
-* [DuckyScript](apps-fap/duckyscript.md)
+* [ESP32](dev-boards/esp32.md)
+* [ESP32-CAM](dev-boards/esp32-cam.md)
+* [ESP32-WROOM-32E](dev-boards/esp32-wroom-32e.md)
+* [esp8266](dev-boards/esp8266.md)
+* [ESP32Marauder](dev-boards/esp32marauder.md)
 
 ## RFS Data
 
@@ -59,14 +60,6 @@
 * [TVs](ir-infrared/tvs.md)
 * [LEDs](ir-infrared/leds.md)
 * [ACs](ir-infrared/acs.md)
-
-## Dev Boards
-
-* [ESP32](dev-boards/esp32.md)
-* [ESP32-CAM](dev-boards/esp32-cam.md)
-* [ESP32-WROOM-32E](dev-boards/esp32-wroom-32e.md)
-* [esp8266](dev-boards/esp8266.md)
-* [ESP32Marauder](dev-boards/esp32marauder.md)
 
 ## Cars
 

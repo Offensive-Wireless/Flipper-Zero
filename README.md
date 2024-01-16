@@ -3,6 +3,20 @@ description: >-
   The Flipper Zero is a multifunctional security and hacking tool designed for
   various tasks related to cybersecurity and electronics.
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Description
