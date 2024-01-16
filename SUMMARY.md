@@ -46,29 +46,19 @@
 
 * [CC1101](sub-ghz/cc1101.md)
 * [NRF24](sub-ghz/nrf24.md)
+* [Lora](sub-ghz/lora.md)
+* [ZigBee](sub-ghz/zigbee.md)
 
-## RFID
+## RFID / NFC
 
-* [Page 2](rfid/page-2.md)
-* [125 Kz](rfid/125-kz.md)
-
-## NFC
-
-* [Page 3](nfc/page-3.md)
+* [Page 2](rfid-nfc/page-2.md)
+* [125 Kz](rfid-nfc/125-kz.md)
 
 ## IR - InfraRed
 
 * [TVs](ir-infrared/tvs.md)
 * [LEDs](ir-infrared/leds.md)
 * [ACs](ir-infrared/acs.md)
-
-## Lora
-
-* [Page 6](lora/page-6.md)
-
-## ZigBee
-
-* [Page 7](zigbee/page-7.md)
 
 ## Dev Boards
 
