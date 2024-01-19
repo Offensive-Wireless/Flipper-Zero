@@ -8,9 +8,6 @@
 * [Technologies](hardware/technologies.md)
 * [Modulations](hardware/modulations.md)
 * [Frequencies](hardware/frequencies.md)
-* [Firmwares List](hardware/firmwares-list.md)
-* [Apps - FAP](hardware/apps-fap.md)
-* [DuckyScript](hardware/duckyscript.md)
 
 ## 1⃣ Firmwares
 
@@ -18,14 +15,21 @@
 * [Xtreme](firmwares/xtreme.md)
 * [Unleashed](firmwares/unleashed.md)
 * [Rogue Master](firmwares/rogue-master.md)
+* [Firmwares List](firmwares/firmwares-list.md)
+
+## 2⃣ Applications
+
+* [Page 3](applications/page-3.md)
+* [Apps - FAP](applications/apps-fap.md)
+* [DuckyScript](applications/duckyscript.md)
 
 ## Dev Boards
 
-* [ESP32](dev-boards/esp32.md)
-* [ESP32-CAM](dev-boards/esp32-cam.md)
-* [ESP32-WROOM-32E](dev-boards/esp32-wroom-32e.md)
-* [esp8266](dev-boards/esp8266.md)
-* [ESP32Marauder](dev-boards/esp32marauder.md)
+* [ESP32](dev-boards/esp32/README.md)
+  * [ESP32-CAM](dev-boards/esp32/esp32-cam.md)
+  * [ESP32-WROOM-32E](dev-boards/esp32/esp32-wroom-32e.md)
+  * [ESP32Marauder](dev-boards/esp32/esp32marauder.md)
+* [ESP8266](dev-boards/esp8266.md)
 
 ## RFS Data
 
