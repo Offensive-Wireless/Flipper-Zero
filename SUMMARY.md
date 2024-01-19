@@ -45,6 +45,7 @@
 
 ## Sub Ghz
 
+* [Sub-Ghz Bruteforcer](sub-ghz/sub-ghz-bruteforcer.md)
 * [CC1101](sub-ghz/cc1101.md)
 * [NRF24](sub-ghz/nrf24.md)
 * [Lora](sub-ghz/lora.md)
