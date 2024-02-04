@@ -29,11 +29,28 @@ Check the list in [https://docs.flipperzero.one/sub-ghz/frequencies](https://doc
 
 ### CAME 12bit 303 Mhz
 
+CAME 12bit 303 MHz refers to a less common frequency and coding scheme used in some CAME remote controls for operating gates, barriers, and other automation systems.
+
 ### CAME 12bit 307 Mhz
 
 ### CAME 12bit 315 Mhz
 
 ### CAME 12bit 433 Mhz
 
+CAME 12bit 433 MHz refers to another specific frequency and coding scheme used in CAME remote controls, similar to the 868 MHz version you mentioned previously.
+
 ### CAME 12bit 868 Mhz
 
+**Applications:** CAME 12bit 868 MHz remotes are used with various CAME automation systems, including:
+
+* Gate automation systems
+* Barrier systems
+* Garage door openers
+* Lighting control systems
+* Alarm systems
+
+### Security+2.0\_390
+
+Security+2.0\_390 is a specific protocol used in some garage door opener remotes, particularly those manufactured by LiftMaster. It operates on a frequency of 390 MHz and utilizes a more secure rolling code mechanism compared to older protocols like Security+ 1.0.
+
+\

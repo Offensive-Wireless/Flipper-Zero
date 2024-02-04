@@ -1,4 +1,4 @@
-# List
+# Firmwares List
 
 
 
@@ -9,3 +9,7 @@
 * [Silabs drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) for Espressif boards
 * [CH43x drivers](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver) for Espressif boards
 * [FTDI drivers](https://www.ftdichip.com/Drivers/VCP.htm) for CC3200, CC3220
+
+#### Flipper Zero Firmware Variants
+
+The Flipper Zero device is a multi-tool for hackers and makers encompassing various functionalities,
