@@ -16,6 +16,8 @@ description: >-
 6. **E-ink Display:** It features a small E-ink display for visual feedback and interaction.
 7. **Battery:** The device comes with a built-in rechargeable battery.
 
+<figure><img src="../.gitbook/assets/0_hckmPDy1ItI6Uk3I.webp" alt=""><figcaption></figcaption></figure>
+
 #### Microcontroller Unit (MCU)
 
 Flipper Zero is powered by an STM32 microcontroller, specifically the **STM32L433**. This MCU is the brain of the device, handling all the logic for processing and executing commands.
@@ -43,3 +45,5 @@ For visual feedback, Flipper Zero boasts a small E-ink display, which is known f
 #### Battery
 
 The device is equipped with a built-in rechargeable battery, ensuring that Flipper Zero remains portable and ready to use on-the-go.
+
+<figure><img src="../.gitbook/assets/0_DnG7y_pQkiSIuYWf.webp" alt=""><figcaption></figcaption></figure>

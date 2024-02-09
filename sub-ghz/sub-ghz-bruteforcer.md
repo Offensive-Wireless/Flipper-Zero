@@ -21,11 +21,11 @@
 
 ### Supported Sub-GHz vendors
 
-Check the list in [https://docs.flipperzero.one/sub-ghz/supported-vendors](https://docs.flipperzero.one/sub-ghz/supported-vendors)
+Check the list at [https://docs.flipperzero.one/sub-ghz/supported-vendors](https://docs.flipperzero.one/sub-ghz/supported-vendors)
 
 ### Supported Frequencies by region
 
-Check the list in [https://docs.flipperzero.one/sub-ghz/frequencies](https://docs.flipperzero.one/sub-ghz/frequencies)
+Check the list at [https://docs.flipperzero.one/sub-ghz/frequencies](https://docs.flipperzero.one/sub-ghz/frequencies)
 
 ### CAME 12bit 303 Mhz
 
@@ -53,4 +53,5 @@ CAME 12bit 433 MHz refers to another specific frequency and coding scheme used i
 
 Security+2.0\_390 is a specific protocol used in some garage door opener remotes, particularly those manufactured by LiftMaster. It operates on a frequency of 390 MHz and utilizes a more secure rolling code mechanism compared to older protocols like Security+ 1.0.
 
-\
+[https://docs.flipper.net/sub-ghz](https://docs.flipper.net/sub-ghz)\
+[https://github.com/tobiabocchi/flipperzero-bruteforce](https://github.com/tobiabocchi/flipperzero-bruteforce)

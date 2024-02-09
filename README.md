@@ -31,6 +31,8 @@ With its compact size and diverse capabilities, the Flipper Zero is well-suited 
 
 If you have specific questions or need more detailed information about certain aspects of the Flipper Zero, feel free to ask.
 
+<figure><img src=".gitbook/assets/1_ToilPDFWPFrd5GzZy44Jfg.webp" alt=""><figcaption></figcaption></figure>
+
 ### Flipper Zero  Attacks
 
 The Flipper Zero is a versatile device designed for various security-related tasks, including penetration testing and ethical hacking. It comes with a range of features and capabilities that allow cybersecurity professionals to assess and secure different types of systems.&#x20;
@@ -59,12 +61,14 @@ The device may support password-cracking techniques for various systems, such as
 
 #### **Social Engineering**
 
-While not a direct attack, the Flipper Zero can aid professionals in conducting security assessments that involve social engineering, such as testing the susceptibility of employees to phishing attacks.
+While not a direct attack, Flipper Zero can aid professionals in conducting security assessments that involve social engineering, such as testing the susceptibility of employees to phishing attacks.
 
 #### **Signal Analysis**
 
 Flipper Zero's radio module allows for signal analysis, enabling professionals to identify and analyze various signals within a given frequency range.
 
 It's important to note that the use of such tools and conducting security assessments should be done ethically and legally.&#x20;
+
+<figure><img src=".gitbook/assets/0_zR19gHfwGN0I5x7L.webp" alt=""><figcaption></figcaption></figure>
 
 Professionals using Flipper Zero or similar devices should have proper authorization and follow ethical guidelines to avoid legal issues.
