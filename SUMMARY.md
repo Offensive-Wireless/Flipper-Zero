@@ -12,11 +12,9 @@
 
 ## 1⃣ Firmwares
 
-* [Original](firmwares/original.md)
+* [Flipper Firmwares](firmwares/flipper-firmwares.md)
+* [RFSware](firmwares/rfsware.md)
 * [Xtreme](firmwares/xtreme.md)
-* [Unleashed](firmwares/unleashed.md)
-* [Rogue Master](firmwares/rogue-master.md)
-* [Firmwares List](firmwares/firmwares-list.md)
 
 ## 2⃣ Applications
 
