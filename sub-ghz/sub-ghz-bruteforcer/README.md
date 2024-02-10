@@ -1,6 +1,6 @@
 # Sub-Ghz Bruteforcer
 
-<figure><img src="../.gitbook/assets/flipper.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/flipper.webp" alt=""><figcaption></figcaption></figure>
 
 | Princeton\_433 (works with the majority of static code systems) | 433.92 | Static  |
 | --------------------------------------------------------------- | ------ | ------- |
