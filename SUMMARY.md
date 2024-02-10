@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Description](README.md)
+* [F.A.Q](f.a.q.md)
 
 ## 0⃣ Hardware
 
