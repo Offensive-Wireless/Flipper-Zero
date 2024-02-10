@@ -14,7 +14,6 @@
 
 * [Flipper Firmwares](firmwares/flipper-firmwares.md)
 * [RFSware](firmwares/rfsware.md)
-* [Xtreme](firmwares/xtreme.md)
 
 ## 2⃣ Applications
 
