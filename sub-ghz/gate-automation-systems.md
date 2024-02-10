@@ -21,5 +21,17 @@ layout:
     visible: true
 ---
 
-# Gate automation systems
+# 🟢 Gate automation systems
 
+| Vendor      | Frequency Used            |
+| ----------- | ------------------------- |
+| FAAC        | 433.92 MHz                |
+| BFT         | 433.92 MHz                |
+| Nice        | 433.92 MHz                |
+| Came        | 433.92 MHz                |
+| LiftMaster  | 310 MHz, 315 MHz, 390 MHz |
+| Chamberlain | 310 MHz, 315 MHz, 390 MHz |
+| Linear      | 310 MHz, 315 MHz, 390 MHz |
+| Genius      | 433.92 MHz                |
+| DoorKing    | 318 MHz                   |
+| SEA         | 433.92 MHz                |

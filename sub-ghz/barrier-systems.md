@@ -21,5 +21,16 @@ layout:
     visible: true
 ---
 
-# Barrier systems
+# 🟢 Barrier systems
 
+| Vendor               | Frequency Used            |
+| -------------------- | ------------------------- |
+| FAAC                 | 433.92 MHz                |
+| BFT                  | 433.92 MHz                |
+| Nice                 | 433.92 MHz                |
+| Came                 | 433.92 MHz                |
+| LiftMaster           | 310 MHz, 315 MHz, 390 MHz |
+| Magnetic AutoControl | 125 kHz (RFID)            |
+| Nortech Control      | 125 kHz (RFID)            |
+| Magnetic AutoControl | 433.92 MHz                |
+| Magnetic AutoControl | 868.3 MHz                 |

@@ -14,7 +14,7 @@ Keyless entry systems are a type of electronic lock that controls access to a ve
 
 * **Convenience**: Allows you to unlock your car without fumbling for keys.
 * **Security**: The codes are often rolling codes, which change with each use to prevent code grabbing.
-* **Hands-Free Operation**: Some systems detect the fob when it is close and unlock the doors without any input.
+* **Hands-Free Operation**: Some systems detect the fob when it is closed and unlock the doors without any input.
 
 ### **Potential Risks**
 
@@ -37,3 +37,15 @@ It's important to note that while keyless entry systems add a layer of convenien
 * As you approach the car with the card or fob in your pocket or purse, sensors in the door handles detect its presence and unlock the doors automatically.
 * The engine can also be started by pressing a button on the dashboard while the card or fob is inside the car.
 * This system typically operates on a 125 kHz frequency for communication between the card/fob and the car.
+
+| Vendor              | Frequency Used   |
+| ------------------- | ---------------- |
+| Continental         | 315 MHz, 434 MHz |
+| Valeo               | 315 MHz, 434 MHz |
+| Lear                | 315 MHz, 434 MHz |
+| Hella               | 315 MHz, 434 MHz |
+| Denso               | 315 MHz, 434 MHz |
+| Delphi              | 315 MHz, 434 MHz |
+| Mitsubishi Electric | 315 MHz, 434 MHz |
+| Panasonic           | 315 MHz, 434 MHz |
+| Alps Alpine         | 315 MHz, 434 MHz |
