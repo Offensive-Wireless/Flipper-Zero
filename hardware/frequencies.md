@@ -4,7 +4,7 @@ description: >-
   of digital frequency and communication hacking with our comprehensive guide.
 ---
 
-# Frequencies
+# 🟢 Frequencies
 
 ### Flipper Zero Frequencies Overview
 
@@ -30,3 +30,4 @@ The Flipper Zero has a built-in radio module capable of transmitting and receivi
 ### **Conclusion**
 
 Understanding Flipper Zero's frequency capabilities is crucial for users who wish to utilize the tool for research, security testing, or hobbyist purposes. Always exercise responsible use of the frequencies to avoid interference with critical communications and emergency services.
+

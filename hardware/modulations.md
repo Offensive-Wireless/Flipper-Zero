@@ -4,7 +4,7 @@ description: >-
   functionalities and usage. Unravel a new world of digital interaction.
 ---
 
-# Modulations
+# 🟢 Modulations
 
 #### Flipper Zero Modulations
 

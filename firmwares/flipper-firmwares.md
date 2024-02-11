@@ -1,4 +1,4 @@
-# Flipper Firmwares
+# 🟢 Flipper Firmwares
 
 <table><thead><tr><th width="133">Firmware</th><th width="162">Description</th><th>Git</th></tr></thead><tbody><tr><td>Xtreme</td><td></td><td><a href="https://github.com/Flipper-XFW/Xtreme-Firmware">https://github.com/Flipper-XFW/Xtreme-Firmware</a></td></tr><tr><td>Unleashed</td><td></td><td></td></tr><tr><td>Original</td><td></td><td><a href="https://github.com/flipperdevices/flipperzero-firmware">https://github.com/flipperdevices/flipperzero-firmware</a></td></tr><tr><td>Rogue Master</td><td></td><td></td></tr></tbody></table>
 

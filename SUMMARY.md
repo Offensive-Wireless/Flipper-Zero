@@ -1,23 +1,23 @@
 # Table of contents
 
-* [Flipper Zero All In One Documentation](README.md)
+* [Flipper Zero All-In-One Documentation](README.md)
 * [F.A.Q](f.a.q.md)
 
 ## 0⃣ Hardware
 
-* [Internal Chips](hardware/internal-chips.md)
-* [Technologies](hardware/technologies.md)
-* [Modulations](hardware/modulations.md)
-* [Frequencies](hardware/frequencies.md)
+* [🟢 Internal Chips](hardware/internal-chips.md)
+* [🟢 Technologies](hardware/technologies.md)
+* [🟢 Modulations](hardware/modulations.md)
+* [🟢 Frequencies](hardware/frequencies.md)
+* [GPIO](hardware/gpio.md)
 
 ## 1⃣ Firmwares
 
-* [Flipper Firmwares](firmwares/flipper-firmwares.md)
-* [RFSware](firmwares/rfsware.md)
+* [🟢 Flipper Firmwares](firmwares/flipper-firmwares.md)
+* [🧡 RFSware](firmwares/rfsware.md)
 
 ## 2⃣ Applications
 
-* [Page 3](applications/page-3.md)
 * [Apps - FAP](applications/apps-fap.md)
 * [DuckyScript](applications/duckyscript.md)
 
@@ -53,8 +53,9 @@
 
 ## Bluetooth
 
-* [SPAM](bluetooth/spam.md)
-* [Page 1](bluetooth/page-1.md)
+* [Android Devices](bluetooth/android-devices.md)
+* [IOS Devices](bluetooth/ios-devices.md)
+* [Windows Laptops](bluetooth/windows-laptops.md)
 
 ## RFID / NFC
 
@@ -70,6 +71,7 @@
 ## Cars
 
 * [Car Vendors](cars/car-vendors/README.md)
+  * [Old Cars Notes](cars/car-vendors/old-cars-notes.md)
   * [Tesla](cars/car-vendors/tesla.md)
   * [Honda](cars/car-vendors/honda.md)
   * [Renault](cars/car-vendors/renault.md)

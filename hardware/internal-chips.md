@@ -4,7 +4,7 @@ description: >-
   article - a deep dive into their mechanics, uses, and impact on technology.
 ---
 
-# Internal Chips
+# 🟢 Internal Chips
 
 ### Flipper Zero Internal Chips
 
