@@ -40,11 +40,6 @@
   * [ESP32Marauder](dev-boards/esp32/esp32marauder.md)
 * [ESP8266](dev-boards/esp8266.md)
 
-## RFS Data
-
-* [Base Info](rfs-data/base-info.md)
-* [My Plugins](rfs-data/my-plugins.md)
-
 ## 🐡 Wifi
 
 * [EvilTwin](wifi/eviltwin.md)
