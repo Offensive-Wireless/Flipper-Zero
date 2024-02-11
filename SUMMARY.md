@@ -9,7 +9,7 @@
 * [🟢 Technologies](hardware/technologies.md)
 * [🟢 Modulations](hardware/modulations.md)
 * [🟢 Frequencies](hardware/frequencies.md)
-* [GPIO](hardware/gpio.md)
+* [🟢 GPIO](hardware/gpio.md)
 
 ## 1⃣ Firmwares
 
