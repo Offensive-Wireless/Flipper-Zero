@@ -68,21 +68,21 @@
 * [LEDs](ir-infrared/leds.md)
 * [ACs](ir-infrared/acs.md)
 
-## Cars
-
-* [Car Vendors](cars/car-vendors/README.md)
-  * [Old Cars Notes](cars/car-vendors/old-cars-notes.md)
-  * [Tesla](cars/car-vendors/tesla.md)
-  * [Honda](cars/car-vendors/honda.md)
-  * [Renault](cars/car-vendors/renault.md)
-  * [BMW](cars/car-vendors/bmw.md)
-* [Rolling Codes](cars/rolling-codes.md)
-* [Keyless entry systems](cars/keyless-entry-systems.md)
-* [Car alarm systems](cars/car-alarm-systems.md)
-
 ## Environment Control
 
 * [Light](environment-control/light.md)
 * [CO2](environment-control/co2.md)
 * [Temperature](environment-control/temperature.md)
 * [Humidity](environment-control/humidity.md)
+
+## Case Studies
+
+* [Car Vendors](case-studies/car-vendors/README.md)
+  * [Old Cars Notes](case-studies/car-vendors/old-cars-notes.md)
+  * [Tesla](case-studies/car-vendors/tesla.md)
+  * [Honda](case-studies/car-vendors/honda.md)
+  * [Renault](case-studies/car-vendors/renault.md)
+  * [BMW](case-studies/car-vendors/bmw.md)
+* [Rolling Codes](case-studies/rolling-codes.md)
+* [Keyless entry systems](case-studies/keyless-entry-systems.md)
+* [Car alarm systems](case-studies/car-alarm-systems.md)
