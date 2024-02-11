@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Description](README.md)
+* [Flipper Zero All In One Documentation](README.md)
 * [F.A.Q](f.a.q.md)
 
 ## 0⃣ Hardware
