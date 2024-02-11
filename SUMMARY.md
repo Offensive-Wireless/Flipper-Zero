@@ -10,11 +10,12 @@
 * [🟢 Modulations](hardware/modulations.md)
 * [🟢 Frequencies](hardware/frequencies.md)
 * [🟢 GPIO](hardware/gpio.md)
+* [Protocols](hardware/protocols.md)
 
 ## 1⃣ Firmwares
 
 * [🟢 Flipper Firmwares](firmwares/flipper-firmwares.md)
-* [🧡 RFSware](firmwares/rfsware.md)
+* [❤ RFSware](firmwares/rfsware.md)
 
 ## 2⃣ Applications
 
@@ -74,10 +75,12 @@
 
 * [Car Vendors](case-studies/car-vendors/README.md)
   * [Old Cars Notes](case-studies/car-vendors/old-cars-notes.md)
-  * [Tesla](case-studies/car-vendors/tesla.md)
+  * [🟢 Tesla](case-studies/car-vendors/tesla.md)
   * [Honda](case-studies/car-vendors/honda.md)
   * [Renault](case-studies/car-vendors/renault.md)
   * [BMW](case-studies/car-vendors/bmw.md)
 * [Rolling Codes](case-studies/rolling-codes.md)
+* [Rolljam Attack](case-studies/rolljam-attack.md)
+* [Rollback Attack](case-studies/rollback-attack.md)
 * [Keyless entry systems](case-studies/keyless-entry-systems.md)
 * [Car alarm systems](case-studies/car-alarm-systems.md)

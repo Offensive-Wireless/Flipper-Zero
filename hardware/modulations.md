@@ -22,6 +22,13 @@ Flipper Zero is a multi-tool device for pentesters and geeks, equipped with seve
 * **Data Analysis:** The tool can analyze the modulation scheme used by a device to help understand its communication protocol.
 * **Custom Protocols:** Users can create custom modulation schemes to communicate with niche or proprietary devices.
 
+### Some Flipper Modulations
+
+* AM270 ( Modulation: ASK/OOK | Bandwidth: 270.83 kHz )
+* AM650 ( Modulation: ASK/OOK | Bandwidth: 650.00 kHz )
+* FM238 ( Modulation: 2FSK | Bandwidth: 270.83 kHz | Deviation: 2.38 kHz)
+* FM4768 ( Modulation: 2FSK | Bandwidth: 270.83 kHz | Deviation: 47.61 kHz)
+
 _For practical usage details or advanced configuration, please refer to the official Flipper Zero documentation or the active community forums._
 
 ### Modulation options supported by the C1101 chip
